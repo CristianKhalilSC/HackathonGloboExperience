@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{80068506-E3CA-72E1-6A66-F65CB307AFF8}") = "HackathonGloboExperience", "Assembly-CSharp.csproj", "{5BDA1FED-2BCF-61D4-DD67-D68DF0A5D4AD}"
+EndProject
+Project("{80068506-E3CA-72E1-6A66-F65CB307AFF8}") = "HackathonGloboExperience", "Assembly-CSharp-Editor.csproj", "{D5E34B03-D5DB-1A05-92E1-88E3BCBAD51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDA1FED-2BCF-61D4-DD67-D68DF0A5D4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDA1FED-2BCF-61D4-DD67-D68DF0A5D4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDA1FED-2BCF-61D4-DD67-D68DF0A5D4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDA1FED-2BCF-61D4-DD67-D68DF0A5D4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E34B03-D5DB-1A05-92E1-88E3BCBAD51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E34B03-D5DB-1A05-92E1-88E3BCBAD51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E34B03-D5DB-1A05-92E1-88E3BCBAD51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E34B03-D5DB-1A05-92E1-88E3BCBAD51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
